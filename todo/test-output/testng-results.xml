@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-25T17:12:34 IST" name="Default suite" finished-at="2025-02-25T17:13:53 IST" duration-ms="79640">
+    <groups>
+    </groups>
+    <test started-at="2025-02-25T17:12:34 IST" name="Default test" finished-at="2025-02-25T17:13:53 IST" duration-ms="79640">
+      <class name="com.suriya.todo.testcases.ToDoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.suriya.todo.testcases.ToDoTest@55740540]" started-at="2025-02-25T17:12:34 IST" name="setUp" finished-at="2025-02-25T17:12:44 IST" duration-ms="10066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddToDo()[pri:1, instance:com.suriya.todo.testcases.ToDoTest@55740540]" started-at="2025-02-25T17:12:44 IST" name="testAddToDo" finished-at="2025-02-25T17:12:44 IST" duration-ms="800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToDo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.suriya.todo.testcases.ToDoTest@55740540]" started-at="2025-02-25T17:12:44 IST" name="tearDown" finished-at="2025-02-25T17:12:45 IST" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.suriya.todo.testcases.ToDoTest@55740540]" started-at="2025-02-25T17:12:45 IST" name="setUp" finished-at="2025-02-25T17:12:49 IST" duration-ms="4211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testMarkCompleted()[pri:2, instance:com.suriya.todo.testcases.ToDoTest@55740540]" started-at="2025-02-25T17:12:49 IST" name="testMarkCompleted" finished-at="2025-02-25T17:12:56 IST" duration-ms="7491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMarkCompleted -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.suriya.todo.testcases.ToDoTest@55740540]" started-at="2025-02-25T17:12:56 IST" name="tearDown" finished-at="2025-02-25T17:12:57 IST" duration-ms="213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.suriya.todo.testcases.ToDoTest@55740540]" started-at="2025-02-25T17:12:57 IST" name="setUp" finished-at="2025-02-25T17:12:59 IST" duration-ms="2792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDeleteToDo()[pri:3, instance:com.suriya.todo.testcases.ToDoTest@55740540]" started-at="2025-02-25T17:12:59 IST" name="testDeleteToDo" finished-at="2025-02-25T17:13:17 IST" duration-ms="17660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteToDo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.suriya.todo.testcases.ToDoTest@55740540]" started-at="2025-02-25T17:13:17 IST" name="tearDown" finished-at="2025-02-25T17:13:17 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.suriya.todo.testcases.ToDoTest@55740540]" started-at="2025-02-25T17:13:17 IST" name="setUp" finished-at="2025-02-25T17:13:20 IST" duration-ms="2824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFilterToDos()[pri:4, instance:com.suriya.todo.testcases.ToDoTest@55740540]" started-at="2025-02-25T17:13:20 IST" name="testFilterToDos" finished-at="2025-02-25T17:13:53 IST" duration-ms="32851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilterToDos -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.suriya.todo.testcases.ToDoTest@55740540]" started-at="2025-02-25T17:13:53 IST" name="tearDown" finished-at="2025-02-25T17:13:53 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.suriya.todo.testcases.ToDoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
