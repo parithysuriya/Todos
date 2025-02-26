@@ -1,41 +1,28 @@
-**Automation Testing Project**
+  **Automation Testing Project**
 
 **Project Overview**
-The project is structured to automate web application testing and improve test maintainability and reusability.
+       
+	 The project is structured to automate web application testing and improve test maintainability and reusability.
 
 **Tech Stack**
 
-Programming Language: Java
+      Programming Language: Java
 
-Testing Framework: TestNG
+      Testing Framework: TestNG
 
-Build Tool: Maven
+      Build Tool: Maven
 
-Automation Tool: Selenium WebDriver
+      Automation Tool: Selenium WebDriver
 
-Design Pattern: Page Object Model (POM)
+      Design Pattern: Page Object Model (POM)
 
-**Project Structure**
-AutomationTestingProject/
-|-- src/
-|   |-- main/
-|   |   |-- java/
-|   |       |-- com.suriya.todo.base
-|   |       |-- com.suriya.todo.config
-|   |       |-- com.suriya.todo.pages   # Page Object Model classes
-|   |-- test/
-|       |-- java/
-|           |-- com.suriya.todo.testcases/  # Test cases using TestNG
-|-- test-output/  # TestNG reports
-|-- pom.xml  # Maven dependencies
-|-- README.md  # Project documentation
 
 **Prerequisites**
 
-Java JDK 8 or later
+     Java JDK 8 or later
 
-Apache Maven
+     Apache Maven
 
-TestNG Plugin for Eclipse/IntelliJ
+     TestNG Plugin for Eclipse/IntelliJ
 
-Selenium WebDriver
+     Selenium WebDriver
